@@ -1,6 +1,6 @@
 # Greetings 👋🏻
 
-- 📚 I'm a Master's student in Chemical Engineering at the Universidade Estadual de Campinas.
-- 🌱 I’m currently learning Julia and C.
-- 🖥 I know a bit about Python, Octave, LaTeX and gnuplot.
-- 🎮 I like to play RPG, Deep Rock Galactic and GTA V.
+- 📚 I’m a PhD student in Chemical Engineering at the State University of Campinas (Unicamp).  
+- 🌱 I’m currently learning Rust.  
+- 🖥 I have basic knowledge of Python, LaTeX, and Gnuplot.  
+- 🎮 I enjoy playing RPGs, Deep Rock Galactic, GTA V, and Baldur’s Gate III.  
